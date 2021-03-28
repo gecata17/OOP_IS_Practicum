@@ -18,3 +18,5 @@ https://www.programiz.com/cpp-programming/constructors
 https://www.geeksforgeeks.org/constructors-c/
 https://www.w3schools.com/cpp/cpp_constructors.asp
                                                         
+Operator << overloading :
+https://docs.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-160
