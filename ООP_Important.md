@@ -1,4 +1,5 @@
  Other materials summary : https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm
+ https://www.techiedelight.com/print-contents-array-reverse-order-cpp/
 
 Struct vs Class : https://www.geeksforgeeks.org/structure-vs-class-in-cpp/
 
@@ -12,6 +13,7 @@ https://www.geeksforgeeks.org/templates-cpp/
 
 Operator overloading :
 https://www.geeksforgeeks.org/operator-overloading-c/
+http://www.cplusplus.com/forum/beginner/203968/
 
 C++ constructors : 
 https://www.programiz.com/cpp-programming/constructors
