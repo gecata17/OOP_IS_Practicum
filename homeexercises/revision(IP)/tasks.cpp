@@ -21,3 +21,28 @@ int main()
 	return 0;
 	
 }
+
+//Да се реализира шаблон на функция void input ([подходящ тип] array,int n),
+//която въвежда от клавиатурата стойностите на елементите на масива array от произволен тип T с големина n.
+
+template<typename T>
+void  input(T* array, int size) {
+	
+	for (int i = 0; i < size; i++)
+	{
+		std::cin >> array[i];
+	}
+}
+template <typename T>
+void test(T *array,int size) {
+	for (int i = 0; i < size; i++)
+	{
+		std::cout << array[i];
+	}
+}
+int main() {
+	int arr[4] ;
+	input<int>(arr, 4);
+	test<int>(arr, 4);
+	
+}
