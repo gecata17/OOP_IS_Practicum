@@ -22,3 +22,9 @@ https://www.w3schools.com/cpp/cpp_constructors.asp
                                                         
 Operator << overloading :
 https://docs.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-160
+
+Inheritance/access-specifiers
+https://www.learncpp.com/cpp-tutorial/inheritance-and-access-specifiers/
+
+print color text on console
+https://www.geeksforgeeks.org/how-to-print-colored-text-in-c/
