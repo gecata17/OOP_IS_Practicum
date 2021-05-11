@@ -34,3 +34,8 @@ files
 https://www.cplusplus.com/doc/tutorial/files/
 https://www.guru99.com/cpp-file-read-write-open.html
 
+abstract classes :
+https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm
+
+vector :
+https://www.bitdegree.org/learn/c-plus-plus-vector
