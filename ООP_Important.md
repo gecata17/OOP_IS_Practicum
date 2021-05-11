@@ -25,6 +25,7 @@ https://docs.microsoft.com/en-us/cpp/standard-library/overloading-the-output-ope
 
 Inheritance/access-specifiers
 https://www.learncpp.com/cpp-tutorial/inheritance-and-access-specifiers/
+https://www.geeksforgeeks.org/inheritance-in-c/
 
 print color text on console
 https://www.geeksforgeeks.org/how-to-print-colored-text-in-c/
